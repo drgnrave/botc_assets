@@ -1,0 +1,13 @@
+[{
+	"id": "braggart",
+	"image": "github.com/drgnrave/botc_assets/token_images/braggart.svg",
+	"edition": "custom",
+	"otherNight": "6",
+	"otherNightReminder": "If the Braggart's ability causes them to wake tnoight: Wake the Braggart up to run their ability.",
+	"reminders": ["?"],
+	"remindersGlobal": [],
+	"setup": false,
+	"name": "Braggart",
+	"team": "townsfolk",
+	"ability": "On your first day, you may visit the storyteller to learn an alternate way to win. If you publically announce this condition and it is subsequently satisifed, your team wins."
+}]
